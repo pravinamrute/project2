@@ -1,0 +1,60 @@
+
+GIT hub --server
+
+for communication with GIThub we want GIT software .
+
+code conflict and code versioning remove 
+# below commands are auto generated 
+########################################
+…or create a new repository on the command line
+
+echo "# ecomm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pravinamrute/ecomm.git
+git push -u origin main
+
+#########
+explanations of commands
+git init--
+
+after excecutions 
+
+Initialized empty Git repository in D:/PYTHON_PROJECTS/GIT_Concepts/.git/
+
+
+we are initialize project repository
+
+
+
+
+
+
+######################################
+…or push an existing repository from the command line
+git remote add origin https://github.com/pravinamrute/ecomm.git
+git branch -M main
+git push -u origin main
+
+###################
+who will create repository---------manager or company
+
+#url will share for new joiner for work on projects 
+
+example 
+https://github.com/pravinamrute/ecomm.git----------this url can be used to join projects
+
+
+#inside github there is projects structures 
+
+
+comment --git clone + url
+
+# by giving this command import project structure from github.
+
+in cloning we will get .git folder with other files _---holding reference of original repository
+
+in downloading we canot get . git folder
+
